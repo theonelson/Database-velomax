@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Clients>
+  <IDClient>1</IDClient>
+  <Nom>Pierre</Nom>
+  <Adresse>50</Adresse>
+  <Programme>3</Programme>
+  <IDClient>2</IDClient>
+  <Nom>Hella</Nom>
+  <Adresse>51</Adresse>
+  <Programme>NULL</Programme>
+  <IDClient>3</IDClient>
+  <Nom>Monique</Nom>
+  <Adresse>52</Adresse>
+  <Programme>2</Programme>
+  <IDClient>4</IDClient>
+  <Nom>decathlon</Nom>
+  <Adresse>53</Adresse>
+  <Programme>3</Programme>
+  <IDClient>5</IDClient>
+  <Nom>go sport</Nom>
+  <Adresse>54</Adresse>
+  <Programme>3</Programme>
+</Clients>

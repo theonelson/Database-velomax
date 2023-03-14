@@ -1,0 +1,18 @@
+C:\Users\theon\Desktop\probleme bdd\Projet_BDD_code\Projet_BDD_code\bin\Debug\Projet_BDD_code.exe.config
+C:\Users\theon\Desktop\probleme bdd\Projet_BDD_code\Projet_BDD_code\bin\Debug\Projet_BDD_code.exe
+C:\Users\theon\Desktop\probleme bdd\Projet_BDD_code\Projet_BDD_code\bin\Debug\Projet_BDD_code.pdb
+C:\Users\theon\Desktop\probleme bdd\Projet_BDD_code\Projet_BDD_code\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\theon\Desktop\probleme bdd\Projet_BDD_code\Projet_BDD_code\obj\Debug\Projet_BDD_code.csprojAssemblyReference.cache
+C:\Users\theon\Desktop\probleme bdd\Projet_BDD_code\Projet_BDD_code\obj\Debug\Projet_BDD_code.csproj.CoreCompileInputs.cache
+C:\Users\theon\Desktop\probleme bdd\Projet_BDD_code\Projet_BDD_code\obj\Debug\Projet_BDD_code.csproj.CopyComplete
+C:\Users\theon\Desktop\probleme bdd\Projet_BDD_code\Projet_BDD_code\obj\Debug\Projet_BDD_code.exe
+C:\Users\theon\Desktop\probleme bdd\Projet_BDD_code\Projet_BDD_code\obj\Debug\Projet_BDD_code.pdb
+C:\Users\theon\Desktop\BDD_Final\Projet_BDD_code\Projet_BDD_code\bin\Debug\Projet_BDD_code.exe.config
+C:\Users\theon\Desktop\BDD_Final\Projet_BDD_code\Projet_BDD_code\bin\Debug\Projet_BDD_code.exe
+C:\Users\theon\Desktop\BDD_Final\Projet_BDD_code\Projet_BDD_code\bin\Debug\Projet_BDD_code.pdb
+C:\Users\theon\Desktop\BDD_Final\Projet_BDD_code\Projet_BDD_code\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\theon\Desktop\BDD_Final\Projet_BDD_code\Projet_BDD_code\obj\Debug\Projet_BDD_code.csprojAssemblyReference.cache
+C:\Users\theon\Desktop\BDD_Final\Projet_BDD_code\Projet_BDD_code\obj\Debug\Projet_BDD_code.csproj.CoreCompileInputs.cache
+C:\Users\theon\Desktop\BDD_Final\Projet_BDD_code\Projet_BDD_code\obj\Debug\Projet_BDD_code.csproj.CopyComplete
+C:\Users\theon\Desktop\BDD_Final\Projet_BDD_code\Projet_BDD_code\obj\Debug\Projet_BDD_code.exe
+C:\Users\theon\Desktop\BDD_Final\Projet_BDD_code\Projet_BDD_code\obj\Debug\Projet_BDD_code.pdb
